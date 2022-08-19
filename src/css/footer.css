@@ -1,0 +1,16 @@
+.footerWrapper {
+    font-family: 'Nunito Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+    padding: 50px 20px 50px 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    overflow: auto;
+}
+
+a {
+    padding: 3px 20px 0px 20px;
+    color: #111111;
+    display: block;
+}
+
